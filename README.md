@@ -27,7 +27,7 @@
     <tbody>
         <tr>
             <td><img src="https://github.com/hyunyongPark/StyleClassifier/blob/main/img/asym_ex1.png"/></td>
-            <td><img src="https://github.com/hyunyongPark/StyleClassifier/blob/main/img/asym_ex2.png"/></td>
+            <td><img src="https://github.com/hyunyongPark/StyleClassifier/blob/main/img/asym_ex2.PNG"/></td>
         </tr>
     </tbody>
 </table>
