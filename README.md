@@ -16,6 +16,22 @@
     </tbody>
 </table>
 
+### Asymmetric Loss Description 
+<table>
+    <thead>
+        <tr>
+            <td>Formula</td>
+            <td>Comparison</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img src="https://github.com/hyunyongPark/StyleClassifier/blob/main/img/asym_ex1.png"/></td>
+            <td><img src="https://github.com/hyunyongPark/StyleClassifier/blob/main/img/asym_ex2.png"/></td>
+        </tr>
+    </tbody>
+</table>
+
 
 
 ### Requirements
@@ -124,14 +140,13 @@ python3 Inference.py
 
 - Example 
 <table>
-    <thead>
-        <tr>
-            <td>testset fashion category</td>
-        </tr>
-    </thead>
     <tbody>
         <tr>
-            <td><img src="https://github.com/hyunyongPark/StyleClassifier/blob/main/img/distribution.png"/></td>
+            <td><img src="https://github.com/hyunyongPark/StyleClassifier/blob/main/img/ex1.png"/></td>
+            <td><img src="https://github.com/hyunyongPark/StyleClassifier/blob/main/img/ex2.png"/></td>
+            <td><img src="https://github.com/hyunyongPark/StyleClassifier/blob/main/img/ex3.png"/></td>
+            <td><img src="https://github.com/hyunyongPark/StyleClassifier/blob/main/img/ex4.png"/></td>
+            <td><img src="https://github.com/hyunyongPark/StyleClassifier/blob/main/img/ex5.png"/></td>
         </tr>
     </tbody>
 </table>
