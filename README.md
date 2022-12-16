@@ -4,12 +4,14 @@
 <table>
     <thead>
         <tr>
-            <td>Model Architecture</td>
+            <td>EfficientNet Model Architecture</td>
+            <td>Activation Map</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><img src="https://github.com/hyunyongPark/FashionDetection/blob/main/img/architecture.png"/></td>
+            <td><img src="https://github.com/hyunyongPark/StyleClassifier/blob/main/img/architecture.png"/></td>
+            <td><img src="https://github.com/hyunyongPark/StyleClassifier/blob/main/img/act_map.png"/></td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +74,7 @@ At the time of learning, recall@10 was set to metric to update the validation re
     </thead>
     <tbody>
         <tr>
-            <td><img src="https://github.com/hyunyongPark/FashionDetection/blob/main/img/training_ex.png"/></td>
+            <td><img src="https://github.com/hyunyongPark/StyleClassifier/blob/main/img/training_ex.png"/></td>
         </tr>
     </tbody>
 </table>
@@ -89,7 +91,7 @@ At the time of learning, recall@10 was set to metric to update the validation re
     </thead>
     <tbody>
         <tr>
-            <td><img src="https://github.com/hyunyongPark/FashionDetection/blob/main/img/distribution.png"/></td>
+            <td><img src="https://github.com/hyunyongPark/StyleClassifier/blob/main/img/distribution.png"/></td>
         </tr>
     </tbody>
 </table>
@@ -139,7 +141,7 @@ At the time of learning, recall@10 was set to metric to update the validation re
     </thead>
     <tbody>
         <tr>
-            <td><img src="https://github.com/hyunyongPark/FashionDetection/blob/main/img/distribution.png"/></td>
+            <td><img src="https://github.com/hyunyongPark/StyleClassifier/blob/main/img/distribution.png"/></td>
         </tr>
     </tbody>
 </table>
