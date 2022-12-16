@@ -52,33 +52,23 @@ If you want to proceed with the new training, adjust the parameters and set the 
 The Training cmd is:
 ```
 
-python3 training-kdeep.py 
+python3 style_train.py 
 
 ```
 
 The testing cmd is: 
 ```
 
-python3 detect.py 
+python3 Inference_inspection_kfashiontest.py 
 
 ```
 
+The inference cmd is: 
+```
 
-At the time of learning, recall@10 was set to metric to update the validation reference score. The example is as follows.
+python3 Inference.py 
 
-<table>
-    <thead>
-        <tr>
-            <td>Training example</td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><img src="https://github.com/hyunyongPark/StyleClassifier/blob/main/img/training_ex.png"/></td>
-        </tr>
-    </tbody>
-</table>
-
+```
 
 ### Test Result
 
