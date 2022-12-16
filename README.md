@@ -1,5 +1,9 @@
 # Kfashion Style classifier - Multi Label classification
 
+### Reference
+- EfficientNet : https://arxiv.org/pdf/1905.11946.pdf
+- Asymmetric Loss : https://arxiv.org/pdf/2009.14119.pdf
+
 ### Model Description 
 <table>
     <thead>
